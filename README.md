@@ -1,1 +1,6 @@
-hiy this is readme file
+2. Right Triangle Star Pattern
+*
+* *
+* * *
+* * * *
+* * * * *
