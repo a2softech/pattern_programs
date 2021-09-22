@@ -1,0 +1,7 @@
+1.Right Triangle Star Pattern
+*
+* *
+* * *
+* * * *
+* * * * *
+
