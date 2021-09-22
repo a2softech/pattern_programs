@@ -1,6 +1,6 @@
-2. Right Triangle Star Pattern
-*
-* *
-* * *
-* * * *
-* * * * *
+Right Triangle Star Pattern
+	*
+	* *
+	* * *
+	* * * *
+	* * * * *
